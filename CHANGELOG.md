@@ -1,5 +1,11 @@
 # Release Notes
 
+## [2026-01-22 22:43:10] - Version 0.1.0
+
+### 🚀 Changes:
+- 绑定Vercel
+
+
 ## [2026-01-22 14:58:02] - Version 0.1.0
 
 ### 🚀 Changes:
